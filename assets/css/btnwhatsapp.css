@@ -1,0 +1,16 @@
+.dmkt-whatsapp-button{
+    position: fixed;
+    bottom: 40px;
+    left: 40px;
+    z-index: 100;
+}
+.dmkt-whatsapp-button .fa-whatsapp:before {
+    color:#fff;
+    border-radius:50%;
+    font-size:30px;
+    background-color: #10d458;
+    padding: 15px;
+}
+.dmkt-whatsapp-button:hover{
+    opacity: 0.8;
+}
